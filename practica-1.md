@@ -1,6 +1,6 @@
-Dante Misael Osornio G. 
+# Dante Misael Osornio G. 
 
-Tengo 22 años
+## Tengo 22 años.
 
 ![Gumbal](foto.png)
 
@@ -12,6 +12,8 @@ Espero trabajar en un estudio indie propio llamdo [TEAM BRIJE](https://store.ste
 
 Disfruto gastar mi tiempo en este mundo jugando, generalmente videojuegos pero ultimamente me he enganchado al Dungeons and Dragons.
 
-Sigueme en  [Itch](https://gumbal117.itch.io/)!
+### Redes
 
-Contacto GumOsornio@hotmail.com
+- Sigueme en  [Itch](https://gumbal117.itch.io/)!
+
+- Contacto GumOsornio@hotmail.com
