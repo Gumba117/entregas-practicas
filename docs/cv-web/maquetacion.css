@@ -1,0 +1,49 @@
+img{
+    max-width: 100%;
+}
+
+.grid-servicios, .grid-acerca {
+    display: grid;
+    grid-template-columns: 100%;
+}
+
+.card-servicio{
+    border: 3px solid navy;
+    padding: 1rem;
+    text-align: center;
+}
+
+.container{
+    max-width: 1400px;
+    color: blue;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*
+Meia querys
+movile 768 px
+tablet 1024 px
+desktop 1200 px
+*/
+
+@media screen and (min-width: 768px) {
+    .grid-servicios, .grid-acerca {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-columns: repeat(2, 50%);
+    }
+}
+@media screen and (min-width: 1024px) {
+    .grid-servicios, .grid-acerca {
+        display: grid;
+        grid-template-columns: 33% 34% 33%;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .grid-servicios, .grid-acerca {
+        display: grid;
+        grid-template-columns: repeat(4, 25%);
+
+    }
+}
