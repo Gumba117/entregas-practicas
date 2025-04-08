@@ -1,21 +1,25 @@
 # Tienda Online - Practica 10
 ## Nombre
 Tabletop Workshop.
-
 ## Descripción
-
 En Tabletop Workshop se venderan juegos de mesa, cartas y elementos de juegos de rol.
 ## Inventario
-Elabora en formato de tabla markdown el inventario de los productos que vas a vender, incluyendo los datos
-de cada producto.
-| Producto | Precio | Descripción |
-|----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
+
+|ID| Producto             | Precio | Descripción                                                                                                          | Stock | 
+|--|----------------------|--------|----------------------------------------------------------------------------------------------------------------------|-------|
+|00| Root                 | $50    | Decide el destino del bosque mientras las facciones del bosque luchan por objetivos contrastantes.                   |   20  |
+|01| Scythe               | $80    | Cinco facciones compiten por el dominio en una Europa de los años 20 devastada por la guerra y llena de robots.      |   50  | 
+|02| Brass: Birmingham    | $70    | Construya redes, haga crecer industrias y navegue por el mundo de la Revolución Industrial.                          |   30  |
+|03| Dune: Imperium       | $55    | Despliega agentes, construye tu mazo y participa en batallas estratégicas para controlar Arrakis.                    |   40  |
+|04| Ark Nova             | $70    | Planificar y construir un zoológico moderno y administrado científicamente para apoyar proyectos de conservación.    |   50  |
+|05| Spirit Island        | $60    | Los espíritus isleños unen fuerzas utilizando poderes elementales para defender su hogar de los invasores.           |   30  |
+|06| Gaia Project         | $80    | Expande, investiga, mejora y coloniza la galaxia con una de las 14 especies alienígenas.                             |   40  |
+|07| Concordia            | $50    | Los comerciantes construyen y comercian en todo el Imperio Romano para complacer a los dioses.                       |   20  |
+|08| Wingspan             | $60    | Atraiga una hermosa y diversa colección de aves a su reserva de vida silvestre.                                      |   50  |
+|09| Food Chain Magnate   | $140   | Strategically hire and manage your workforce to outcompete rival fast food chains.                                   |   10  |
 
 ## Moodboard UI
-En formato de imagen, un moodboard, de cómo imáginas el diseño de la UI de tu tienda online.
+
 
 ![Mood board UI](/assets/moodboard.png)
 
@@ -23,12 +27,20 @@ En formato de imagen, un moodboard, de cómo imáginas el diseño de la UI de tu
 ## Algoritmo de proceso de compra
 Desarrolla en lenguaje natural, el algoritmo de cómo sería el proceso de compra en tu tienda online.
 
+1. El usuario navega por la tienda online.
+2. El usuario selecciona uno o varios productos.
+2. El usuario agrega los productos deseados al carrito de compras.
+3. El usuario revisa el carrito.
+4. El usuario procede al checkout
+5. El usuario ingresa sus datos de facturación y envío.
+5. El usuario selecciona un método de pago.
+5. El usuario paga.
+6. Se procesa el pago y se verifica la transacción.
+7. Se genera una orden de compra.
+8. Se actualiza el stock del inventario.
+9. Se envía un recibo de pago y confirmación del pedido al usuario vía correo electrónico.
+10. Se envia el producto a la dirección proporcionada.
+
 ## Diagrama de flujo
-En formato de imagen, haz el diagrama de flujo de tu algoritmo, puedes usar herramientas como:
-> i. https://www.drawio.com/
-
-> ii. https://www.figma.com/es-es/figjam/
-
-> iii. https://www.canva.com/
 
 ![Diagrama de flujo](/assets/diagrama.png)
