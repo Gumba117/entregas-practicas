@@ -5,18 +5,20 @@ Tabletop Workshop.
 En Tabletop Workshop se venderan juegos de mesa, cartas y elementos de juegos de rol.
 ## Inventario
 
-|ID| Producto             | Precio | Descripción                                                                                                          | Stock | 
-|--|----------------------|--------|----------------------------------------------------------------------------------------------------------------------|-------|
-|00| Root                 | $50    | Decide el destino del bosque mientras las facciones del bosque luchan por objetivos contrastantes.                   |   20  |
-|01| Scythe               | $80    | Cinco facciones compiten por el dominio en una Europa de los años 20 devastada por la guerra y llena de robots.      |   50  | 
-|02| Brass: Birmingham    | $70    | Construya redes, haga crecer industrias y navegue por el mundo de la Revolución Industrial.                          |   30  |
-|03| Dune: Imperium       | $55    | Despliega agentes, construye tu mazo y participa en batallas estratégicas para controlar Arrakis.                    |   40  |
-|04| Ark Nova             | $70    | Planificar y construir un zoológico moderno y administrado científicamente para apoyar proyectos de conservación.    |   50  |
-|05| Spirit Island        | $60    | Los espíritus isleños unen fuerzas utilizando poderes elementales para defender su hogar de los invasores.           |   30  |
-|06| Gaia Project         | $80    | Expande, investiga, mejora y coloniza la galaxia con una de las 14 especies alienígenas.                             |   40  |
-|07| Concordia            | $50    | Los comerciantes construyen y comercian en todo el Imperio Romano para complacer a los dioses.                       |   20  |
-|08| Wingspan             | $60    | Atraiga una hermosa y diversa colección de aves a su reserva de vida silvestre.                                      |   50  |
-|09| Food Chain Magnate   | $140   | Strategically hire and manage your workforce to outcompete rival fast food chains.                                   |   10  |
+|ID| Producto             | Precio | Descripción                                                                                                          | Stock | Tipo        |
+|--|----------------------|--------|----------------------------------------------------------------------------------------------------------------------|-------|-------------|
+|00| Root                 | $50    | Decide el destino del bosque mientras las facciones del bosque luchan por objetivos contrastantes.                   |   20  |Juego de Mesa|
+|01| Scythe               | $80    | Cinco facciones compiten por el dominio en una Europa de los años 20 devastada por la guerra y llena de robots.      |   50  |Juego de Mesa| 
+|02| Brass: Birmingham    | $70    | Construya redes, haga crecer industrias y navegue por el mundo de la Revolución Industrial.                          |   30  |Juego de Mesa|
+|03| Dune: Imperium       | $55    | Despliega agentes, construye tu mazo y participa en batallas estratégicas para controlar Arrakis.                    |   40  |Juego de Mesa|
+|04| Ark Nova             | $70    | Planificar y construir un zoológico moderno y administrado científicamente para apoyar proyectos de conservación.    |   50  |Juego de Mesa|
+|05| Spirit Island        | $60    | Los espíritus isleños unen fuerzas utilizando poderes elementales para defender su hogar de los invasores.           |   30  |Juego de Mesa|
+|06| Gaia Project         | $80    | Expande, investiga, mejora y coloniza la galaxia con una de las 14 especies alienígenas.                             |   40  |Juego de Mesa|
+|07| Concordia            | $50    | Los comerciantes construyen y comercian en todo el Imperio Romano para complacer a los dioses.                       |   20  |Juego de Mesa|
+|08| Wingspan             | $60    | Atraiga una hermosa y diversa colección de aves a su reserva de vida silvestre.                                      |   50  |Juego de Mesa|
+|09| Food Chain Magnate   | $140   | Strategically hire and manage your workforce to outcompete rival fast food chains.                                   |   10  |Juego de Mesa|
+|10| Plastic Dice 35pz    | $50    | Stunning sets of dice of diferent colors.                                                                            |   10  |Juego de Rol |
+|11| D&D Kit Esencial     | $140   | Dungeons & Dragons DM Guide, Monster Manual, Player Manual, Set of dice and DM Screen                                |   10  |Juego de Rol |
 
 ## Moodboard UI
 

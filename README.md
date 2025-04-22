@@ -10,4 +10,5 @@
 + [Practica 8](https://gumba117.github.io/entregas-practicas/practica-8/)
 + [Practica 9](https://gumba117.github.io/entregas-practicas/practica-9/)
 + [Practica 10](tienda-online.md)
++ [Practica 11](modelado-tienda.md)
 
