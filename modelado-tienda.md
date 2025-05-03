@@ -53,3 +53,8 @@
 # Diagrama Relacional
 
 ![Diagrama Relacional](/assets/modelado-tienda.png)
+
+# Diagrama Supabase
+![Diagrama Supabase](/assets/PRÁCTICA12.png)
+
+
